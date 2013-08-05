@@ -30,16 +30,16 @@ If AVRDUDE and your programming hardware is setup correctly, you just have to ty
 
 This is the hardware I bought for the TinyMatrix:
 
-* |AVR Microprocessor |1,42|[#719-4082 at RS](https://nl.rs-online.com/web/p/products/719-4082/)|
-* |LED Matrix         |2,42|[#719-2588 at RS](https://nl.rs-online.com/web/p/products/719-2588/)|
-* |Resistor 100k      |0,02|[#131-491 at RS](https://nl.rs-online.com/web/p/products/131-491/)|
-* |Switch             |0,75|[#702-3763 at RS](https://nl.rs-online.com/web/p/products/702-3763/)|
-* |Button             |0,41|[#378-6303 at RS](https://nl.rs-online.com/web/p/products/378-6303/)|
-* |Battery            |0,15|[DealExtreme](http://dx.com/p/2032-x-20-pcs-cell-batteries-751)|
-* |Battery holder     |0,40|[yallstock at eBay](http://www.ebay.com/itm/5-pcs-New-CR2032-Half-Round-Battery-Coin-Button-Cell-Socket-Holder-Case-Black-/320924808105)|
+* AVR Microprocessor 1,42 [#719-4082 at RS](https://nl.rs-online.com/web/p/products/719-4082/)
+* LED Matrix         2,42 [#719-2588 at RS](https://nl.rs-online.com/web/p/products/719-2588/)
+* Resistor 100k      0,02 [#131-491 at RS](https://nl.rs-online.com/web/p/products/131-491/)
+* Switch             0,75 [#702-3763 at RS](https://nl.rs-online.com/web/p/products/702-3763/)
+* Button             0,41 [#378-6303 at RS](https://nl.rs-online.com/web/p/products/378-6303/)
+* Battery            0,15 [DealExtreme](http://dx.com/p/2032-x-20-pcs-cell-batteries-751)
+* Battery holder     0,40 [yallstock at eBay](http://www.ebay.com/itm/5-pcs-New-CR2032-Half-Round-Battery-Coin-Button-Cell-Socket-Holder-Case-Black-/320924808105)
 
 
 
 Copyright 2013 Edwin Martin <edwin@bitstorm.org>
 
-License: MIT
+License: MIT or GPL (code GNU GPL v2 or newer)
