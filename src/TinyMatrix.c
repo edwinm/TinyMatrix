@@ -1,8 +1,9 @@
-////////////////////////////////////////////////////////////
-// TinyMatrix.c                                           //
-// copyright 2012 Tim Toner (tigeruppp/at/gmail.com)      //
-// licensed under the GNU GPL v2 or newer                 //
-////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+// TinyMatrix.c                                                  //
+// Copyright 2012 Tim Toner (tigeruppp/at/gmail.com)             //
+// Modifications by Edwin Martin <edwin@bitstorm.org>            //
+// Licensed under the GNU GPL v2 or newer                        //
+///////////////////////////////////////////////////////////////////
 
 #include <inttypes.h>
 #include <stdlib.h>
