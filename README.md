@@ -10,11 +10,12 @@ In August 2013, I held a workshop with 10 kids at [OHM2013](https://ohm2013.org/
 
 ## Setup
 
-If you have never programmed a (AVR) microcontroller before, you need two things:
+If you have never programmed a (AVR) microcontroller before, you need four things:
 
 - A compiler. I used [AVRDUDE](http://www.nongnu.org/avrdude/), a free compiler for AVR microcontrollers.
 - Hardware that can be used to burn the microcontroller. I used [Bus Pirate](http://dangerousprototypes.com/bus-pirate-manual/) you can buy it for US$30 at [SparkFun](https://www.sparkfun.com/products/9544).
 - Something to connect the Bus Pirate to the AVR microcontroller. I soldered something together with the help of the [Bus Pirate AVR Programming documentation](http://dangerousprototypes.com/docs/Bus_Pirate_AVR_Programming) and [this image](http://dangerousprototypes.com/docs/images/1/1b/Bp-pin-cable-color.png). There are also programmers in which you can plug in an AVR microcontroller directly, but I have no experience with those.
+- Something to test the microcontroller. I used a breadboard.
 
 ## Compiling
 
