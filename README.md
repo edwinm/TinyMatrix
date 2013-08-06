@@ -31,7 +31,7 @@ If AVRDUDE and your programming hardware is setup correctly, you just have to ty
 
 This is the hardware I bought for the TinyMatrix:
 
-* AVR Microprocessor 1,42 [#719-4082 at RS](https://nl.rs-online.com/web/p/products/719-4082/)
+* AVR ATtiny4313 Microcontroller 1,42 [#719-4082 at RS](https://nl.rs-online.com/web/p/products/719-4082/)
 * LED Matrix         2,42 [#719-2588 at RS](https://nl.rs-online.com/web/p/products/719-2588/)
 * Resistor 100k      0,02 [#131-491 at RS](https://nl.rs-online.com/web/p/products/131-491/)
 * Switch             0,75 [#702-3763 at RS](https://nl.rs-online.com/web/p/products/702-3763/)
